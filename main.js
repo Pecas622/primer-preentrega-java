@@ -68,5 +68,5 @@ simuladorJuego();
 
 
 
-// nuevo jueo
+
 
